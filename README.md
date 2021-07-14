@@ -4,7 +4,7 @@
 
 # Notes:
 
-## Create a new repository on the command line**
+## Create a new repository on the command line
 - echo "# sad" >> README.md
 - git init
 - git add README.md
@@ -19,7 +19,9 @@
 - git push -u origin main
 
 ## For the new "main" branch as default, you can do this way: 
-``` git checkout master ```
-``` git branch main master -f ```   
-``` git checkout main ```
-``` git push origin main -f ```
+``` 
+git checkout master 
+git branch main master -f
+git checkout main
+git push origin main -f
+```
