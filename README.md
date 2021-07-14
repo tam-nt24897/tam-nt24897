@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @tam-nt24897
+- 👋 Hi, I’m **@tam-nt24897**
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 
-*Notes:*
+# Notes:
 
-** Create a new repository on the command line**
+## Create a new repository on the command line**
 - echo "# sad" >> README.md
 - git init
 - git add README.md
@@ -13,7 +13,13 @@
 - git remote add origin git@github.com:tam-nt24897/sad.git
 - git push -u origin main
 
-** Push an existing repository from the command line**
+## Push an existing repository from the command line
 - git remote add origin git@github.com:tam-nt24897/sad.git
 - git branch -M main
 - git push -u origin main
+
+## For the new "main" branch as default, you can do this way: 
+``` git checkout master ```
+``` git branch main master -f ```   
+``` git checkout main ```
+``` git push origin main -f ```
