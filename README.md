@@ -2,6 +2,8 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 
+<a href="https://app.daily.dev/LiLiL"><img src="https://api.daily.dev/devcards/681fb2c2ac0045df9559822b9ec8973a.png?r=bp5" width="400" alt="Tam Nguyen Thanh's Dev Card"/></a>
+
 # Notes:
 
 ## Create a new repository on the command line
