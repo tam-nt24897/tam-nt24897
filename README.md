@@ -6,6 +6,11 @@
 
 # Notes:
 
+## Check the current branch of git:
+``` 
+git branch --show-current
+``` 
+
 ## Create a new repository on the command line
 ``` 
 echo "# sad" >> README.md
